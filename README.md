@@ -1,1 +1,1 @@
-# -Personal-Studies-Basic-React-Deployment-Test-with-Netlify
+# -Personal-Studies-Basic-React-Deployment-Test-with-githubpages
